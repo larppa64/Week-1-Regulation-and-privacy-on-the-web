@@ -1,1 +1,26 @@
+How many necessary cookies are there?
+  Six
 
+What happens if you try to disable necessary cookies?
+  In Firefox necessary cookies cannot be rejected. The cookie banner stays visible until they are 
+  accepted, and even if you try to delete them in developer tools, they are recreated automatically.
+
+List at least 6 different expiry times from the necessary cookies
+  Wed, 18 Mar 2026 17:51:55 GMT
+  Session
+  Session
+  Mon, 05 Apr 2094 20:36:02 GMT
+  Mon, 14 Sep 2026 17:21:57 GMT
+  Sat, 17 Mar 2029 17:21:55 GMT
+
+List 3 different cookie types from necessary cookies
+  Secure cookie
+  HttpOnly cookie
+  Persistent cookie
+
+In Statistics, what are the expiry time and cookie type of JXWEBUID
+  Expiry time: Mon, 05 Apr 2094 20:36:02 GMT
+  Cookie type: Persistent, HttpOnly
+
+In Statistics and Marketing, what other Apps or Companies are listed, other than Jagex
+  TikTok

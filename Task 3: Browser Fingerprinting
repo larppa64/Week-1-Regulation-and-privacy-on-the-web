@@ -1,1 +1,28 @@
+3A)
+
+Return two categories and results where you had the highest and lowest amount of identifying bits of information.
+  Highest: HASH OF CANVAS FINGERPRINT: 3420.87
+  Lowest: ARE COOKIES ENABLED? and CPU CLASS: 1.07
+
+Why does identifiability matter?
+  Easily identified person is more likely to be tracked by websites, advertisers and hackers. That would be a privacy and security risk.
+
+What pros and cons can you think of to being unique vs common?
+  Being unique makes one pop out of the crowd so it is easier to be identified and higher chance of being attacked. On the other hand, an unique one will not be confused with others.
+  A common user faces less targeted advertising and a lower risk of being identified, but users data might be thrown to be part of mass data. The mass data is not in users hands and could be shared or stored without their knowledge.
+
+
+3B) 
+
+Return similarity percentage and explanations of your results for:
+
+Canvas + WebGL Data
+  HASH OF CANVAS FINGERPRINT: 0,02923% eli noin 0,03%
+  HASH OF WEBGL FINGERPRINT: 0,03800% eli noin 0,04%
+  Both my Canvas and WebGL are higly unique, because of my browser and GPU configuration
+
+Screen width, Screen height, Screen available width, Screen available height, Can you explain your result?
+  SCREEN SIZE AND COLOR DEPTH: 2,6028% eli noin 2,6%
+  My screen resolution is quite uncommon in laptops/computers.
+
 
